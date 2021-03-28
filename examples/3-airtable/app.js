@@ -1,1 +1,1 @@
-const result = document.querySelector('.result')
+const result = document.querySelector('.result');
